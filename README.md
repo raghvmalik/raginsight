@@ -28,7 +28,7 @@ This avoids hallucinations and keeps responses tied to actual sources.
 ## 🗂️ Project Structure
 
 ```text
-rag-insight/
+raginsight/
 ├── backend/            # FastAPI backend and RAG logic
 │   ├── app/
 │   │   ├── main.py     # API entry point
